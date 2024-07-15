@@ -6,7 +6,7 @@ def display_results():
     st.write("Step 1: Hardware Connections")
     
     # Image for hardware connections
-    hardware_image_url = "https://res.cloudinary.com/dutz2aydx/image/upload/v1720634630/ds8sgwb7ngwh39ipmrxj.jpg"
+    hardware_image_url = "![image](https://github.com/user-attachments/assets/adeadfae-6be2-4c80-8b6d-eb697dc4f75e)"
     
     # Display hardware connections image
     st.image(hardware_image_url, use_column_width=True)
